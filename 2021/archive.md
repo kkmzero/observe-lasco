@@ -5,8 +5,8 @@ List of archived image observations from LASCO C2 and LASCO C3 published on Spac
 
 #### 2021-05-30
 
-<a href="img/20210530-01.png" target="_blank"><img src="img/20210530-01.png" width="200"></a>
+<a href="img/20210530-01.png"><img src="img/20210530-01.png" width="200"></a>
 
 #### 2021-05-25
 
-<a href="img/20210525-01.png" target="_blank"><img src="img/20210525-01.png" width="200"></a> <a href="img/20210525-02.png" target="_blank"><img src="img/20210525-02.png" width="200"></a>
+<a href="img/20210525-01.png"><img src="img/20210525-01.png" width="200"></a> <a href="img/20210525-02.png"><img src="img/20210525-02.png" width="200"></a>
