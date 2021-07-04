@@ -5,16 +5,16 @@ List of archived image observations from LASCO C2 and LASCO C3 published on Spac
 
 #### 2021-06-10
 
-<a href="img/20210610-01.png"><img src="img/20210610-01.png" width="200"></a> <a href="img/20210610-02.png"><img src="img/20210610-02.png" width="200"></a> <a href="img/20210610-03.png"><img src="img/20210610-03.png" width="200"></a> <a href="img/20210610-04.png"><img src="img/20210610-04.png" width="200"></a> <a href="img/20210610-05.png"><img src="img/20210610-05.png" width="200"></a>
+<a href="img/20210610-01.png"><img src="img/20210610-01.png" width="188"></a> <a href="img/20210610-02.png"><img src="img/20210610-02.png" width="188"></a> <a href="img/20210610-03.png"><img src="img/20210610-03.png" width="188"></a> <a href="img/20210610-04.png"><img src="img/20210610-04.png" width="188"></a> <a href="img/20210610-05.png"><img src="img/20210610-05.png" width="188"></a>
 
 #### 2021-06-08
 
-<a href="img/20210608-01.png"><img src="img/20210608-01.png" width="200"></a>
+<a href="img/20210608-01.png"><img src="img/20210608-01.png" width="188"></a>
 
 #### 2021-05-30
 
-<a href="img/20210530-01.png"><img src="img/20210530-01.png" width="200"></a>
+<a href="img/20210530-01.png"><img src="img/20210530-01.png" width="188"></a>
 
 #### 2021-05-25
 
-<a href="img/20210525-01.png"><img src="img/20210525-01.png" width="200"></a> <a href="img/20210525-02.png"><img src="img/20210525-02.png" width="200"></a>
+<a href="img/20210525-01.png"><img src="img/20210525-01.png" width="188"></a> <a href="img/20210525-02.png"><img src="img/20210525-02.png" width="188"></a>
