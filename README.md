@@ -18,6 +18,7 @@ Coronal Mass Ejections (CMEs) are large expulsions of plasma and magnetic field 
 
 ## Resources
 
+- [SOL24.net](https://sol24.net) - Current space weather conditions.
 - [CACTUS](https://wwwbis.sidc.be/cactus/) - A software package for 'Computer Aided CME Tracking'. CACTUS autonomously detects coronal mass ejections (CMEs) in image sequences from LASCO.
 - [SDO](https://sdo.gsfc.nasa.gov) - Solar Dynamics Observatory website.
 - [SOHO/LASCO Instrument Homepage](https://lasco-www.nrl.navy.mil) -  The home page of the LASCO instrument.
