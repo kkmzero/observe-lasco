@@ -3,6 +3,10 @@
 List of archived image observations from LASCO C2 and LASCO C3 published on Space Weather Prediction Center [website](https://www.swpc.noaa.gov/products/lasco-coronagraph) during year 2021.
 
 
+#### 2021-08-18
+
+<a href="img/20210818-01.png"><img src="img/20210818-01.png" width="190"></a> <a href="img/20210818-02.png"><img src="img/20210818-02.png" width="190"></a> <a href="img/20210818-03.png"><img src="img/20210818-03.png" width="190"></a> <a href="img/20210818-04.png"><img src="img/20210818-04.png" width="190"></a> <a href="img/20210818-05.png"><img src="img/20210818-05.png" width="190"></a> <a href="img/20210818-06.png"><img src="img/20210818-06.png" width="190"></a> <a href="img/20210818-07.png"><img src="img/20210818-07.png" width="190"></a>
+
 #### 2021-08-02
 
 <a href="img/20210802-01.png"><img src="img/20210802-01.png" width="190"></a> <a href="img/20210802-02.png"><img src="img/20210802-02.png" width="190"></a>
