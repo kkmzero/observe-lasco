@@ -3,6 +3,10 @@
 List of archived image observations from LASCO C2 and LASCO C3 published on Space Weather Prediction Center [website](https://www.swpc.noaa.gov/products/lasco-coronagraph) during year 2021.
 
 
+#### 2021-08-28
+
+<a href="img/20210828-01.png"><img src="img/20210828-01.png" width="190"></a> <a href="img/20210828-02.png"><img src="img/20210828-02.png" width="190"></a> <a href="img/20210828-03.png"><img src="img/20210828-03.png" width="190"></a> <a href="img/20210828-04.png"><img src="img/20210828-04.png" width="190"></a> <a href="img/20210828-05.png"><img src="img/20210828-05.png" width="190"></a> <a href="img/20210828-06.png"><img src="img/20210828-06.png" width="190"></a> <a href="img/20210828-07.png"><img src="img/20210828-07.png" width="190"></a> <a href="img/20210828-08.png"><img src="img/20210828-08.png" width="190"></a> <a href="img/20210828-09.png"><img src="img/20210828-09.png" width="190"></a> <a href="img/20210828-10.png"><img src="img/20210828-10.png" width="190"></a> <a href="img/20210828-11.png"><img src="img/20210828-11.png" width="190"></a> <a href="img/20210828-12.png"><img src="img/20210828-12.png" width="190"></a> <a href="img/20210828-13.png"><img src="img/20210828-13.png" width="190"></a> <a href="img/20210828-14.png"><img src="img/20210828-14.png" width="190"></a>
+
 #### 2021-08-26
 
 <a href="img/20210826-01.png"><img src="img/20210826-01.png" width="190"></a> <a href="img/20210826-02.png"><img src="img/20210826-02.png" width="190"></a> <a href="img/20210826-03.png"><img src="img/20210826-03.png" width="190"></a> <a href="img/20210826-04.png"><img src="img/20210826-04.png" width="190"></a> <a href="img/20210826-05.png"><img src="img/20210826-05.png" width="190"></a>
