@@ -3,7 +3,17 @@
 List of archived image observations from LASCO C2 and LASCO C3 published on Space Weather Prediction Center [website](https://www.swpc.noaa.gov/products/lasco-coronagraph) during year 2021.
 
 
+#### 2021-08-31
+
+<a href="img/20210831-01.png"><img src="img/20210831-01.png" width="190"></a> <a href="img/20210831-02.png"><img src="img/20210831-02.png" width="190"></a> <a href="img/20210831-03.png"><img src="img/20210831-03.png" width="190"></a> <a href="img/20210831-04.png"><img src="img/20210831-04.png" width="190"></a>
+
+#### 2021-08-30
+
+<a href="img/20210830-01.png"><img src="img/20210830-01.png" width="190"></a>
+
 #### 2021-08-29
+
+*CACTUS: <a href="https://wwwbis.sidc.be/cactus/catalog/LASCO/2_5_0/qkl/2021/08/CME0051/CME.html">CME0051</a>, <a href="https://wwwbis.sidc.be/cactus/catalog/LASCO/2_5_0/qkl/2021/08/CME0052/CME.html">CME0052</a> // SEEDS: <a href="http://spaceweather.gmu.edu/seeds/dailymkmovie.php?cme=20210829&r&cor2=a">COR2</a> & <a href="http://spaceweather.gmu.edu/seeds/dailymkmovie.php?cme=20210829&cor2=a">COR2A</a>*
 
 <a href="img/20210829-01.png"><img src="img/20210829-01.png" width="190"></a> <a href="img/20210829-02.png"><img src="img/20210829-02.png" width="190"></a> <a href="img/20210829-03.png"><img src="img/20210829-03.png" width="190"></a> <a href="img/20210829-04.png"><img src="img/20210829-04.png" width="190"></a> <a href="img/20210829-05.png"><img src="img/20210829-05.png" width="190"></a> <a href="img/20210829-06.png"><img src="img/20210829-06.png" width="190"></a> <a href="img/20210829-07.png"><img src="img/20210829-07.png" width="190"></a> <a href="img/20210829-08.png"><img src="img/20210829-08.png" width="190"></a> <a href="img/20210829-09.png"><img src="img/20210829-09.png" width="190"></a>
 
