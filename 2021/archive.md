@@ -3,27 +3,43 @@
 List of archived image observations from LASCO C2 and LASCO C3 published on Space Weather Prediction Center [website](https://www.swpc.noaa.gov/products/lasco-coronagraph) during year 2021.
 
 
+#### 2021-09-15
+
+<a href="img/20210915-01.png"><img src="img/20210915-01.png" width="190"></a> <a href="img/20210915-02.png"><img src="img/20210915-02.png" width="190"></a> <a href="img/20210915-03.png"><img src="img/20210915-03.png" width="190"></a> <a href="img/20210915-04.png"><img src="img/20210915-04.png" width="190"></a> <a href="img/20210915-05.png"><img src="img/20210915-05.png" width="190"></a> <a href="img/20210915-06.png"><img src="img/20210915-06.png" width="190"></a> <a href="img/20210915-07.png"><img src="img/20210915-07.png" width="190"></a> <a href="img/20210915-08.png"><img src="img/20210915-08.png" width="190"></a> <a href="img/20210915-09.png"><img src="img/20210915-09.png" width="190"></a> <a href="img/20210915-10.png"><img src="img/20210915-10.png" width="190"></a>
+
 #### 2021-09-14
+
+*CACTUS: <a href="https://wwwbis.sidc.be/cactus/catalog/LASCO/2_5_0/qkl/2021/09/CME0037/CME.html">CME0037</a> // SEEDS: <a href="http://spaceweather.gmu.edu/seeds/dailymkmovie.php?cme=20210914&r&cor2=a">COR2</a> & <a href="http://spaceweather.gmu.edu/seeds/dailymkmovie.php?cme=20210914&cor2=a">COR2A</a>*
 
 <a href="img/20210914-01.png"><img src="img/20210914-01.png" width="190"></a> <a href="img/20210914-02.png"><img src="img/20210914-02.png" width="190"></a> <a href="img/20210914-03.png"><img src="img/20210914-03.png" width="190"></a> <a href="img/20210914-04.png"><img src="img/20210914-04.png" width="190"></a> <a href="img/20210914-05.png"><img src="img/20210914-05.png" width="190"></a>
 
 #### 2021-09-13
 
+*CACTUS: <a href="https://wwwbis.sidc.be/cactus/catalog/LASCO/2_5_0/qkl/2021/09/CME0026/CME.html">CME0026</a> // SEEDS: <a href="http://spaceweather.gmu.edu/seeds/dailymkmovie.php?cme=20210913&r&cor2=a">COR2</a> & <a href="http://spaceweather.gmu.edu/seeds/dailymkmovie.php?cme=20210913&cor2=a">COR2A</a>*
+
 <a href="img/20210913-01.png"><img src="img/20210913-01.png" width="190"></a> <a href="img/20210913-02.png"><img src="img/20210913-02.png" width="190"></a> <a href="img/20210913-03.png"><img src="img/20210913-03.png" width="190"></a> <a href="img/20210913-04.png"><img src="img/20210913-04.png" width="190"></a> <a href="img/20210913-05.png"><img src="img/20210913-05.png" width="190"></a>
 
 #### 2021-09-12
+
+*CACTUS: <a href="https://wwwbis.sidc.be/cactus/catalog/LASCO/2_5_0/qkl/2021/09/CME0022/CME.html">CME0022</a>, <a href="https://wwwbis.sidc.be/cactus/catalog/LASCO/2_5_0/qkl/2021/09/CME0023/CME.html">CME0023</a> // SEEDS: <a href="http://spaceweather.gmu.edu/seeds/dailymkmovie.php?cme=20210912&r&cor2=a">COR2</a> & <a href="http://spaceweather.gmu.edu/seeds/dailymkmovie.php?cme=20210912&cor2=a">COR2A</a>*
 
 <a href="img/20210912-01.png"><img src="img/20210912-01.png" width="190"></a> <a href="img/20210912-02.png"><img src="img/20210912-02.png" width="190"></a> <a href="img/20210912-03.png"><img src="img/20210912-03.png" width="190"></a> <a href="img/20210912-04.png"><img src="img/20210912-04.png" width="190"></a> <a href="img/20210912-05.png"><img src="img/20210912-05.png" width="190"></a> <a href="img/20210912-06.png"><img src="img/20210912-06.png" width="190"></a> <a href="img/20210912-07.png"><img src="img/20210912-07.png" width="190"></a> <a href="img/20210912-08.png"><img src="img/20210912-08.png" width="190"></a> <a href="img/20210912-09.png"><img src="img/20210912-09.png" width="190"></a> <a href="img/20210912-10.png"><img src="img/20210912-10.png" width="190"></a> <a href="img/20210912-11.png"><img src="img/20210912-11.png" width="190"></a> <a href="img/20210912-12.png"><img src="img/20210912-12.png" width="190"></a> <a href="img/20210912-13.png"><img src="img/20210912-13.png" width="190"></a> <a href="img/20210912-14.png"><img src="img/20210912-14.png" width="190"></a> <a href="img/20210912-15.png"><img src="img/20210912-15.png" width="190"></a>
 
 #### 2021-09-11
 
+*CACTUS: <a href="https://wwwbis.sidc.be/cactus/catalog/LASCO/2_5_0/qkl/2021/09/CME0018/CME.html">CME0018</a>, <a href="https://wwwbis.sidc.be/cactus/catalog/LASCO/2_5_0/qkl/2021/09/CME0021/CME.html">CME0021</a> // SEEDS: <a href="http://spaceweather.gmu.edu/seeds/dailymkmovie.php?cme=20210911&r&cor2=a">COR2</a> & <a href="http://spaceweather.gmu.edu/seeds/dailymkmovie.php?cme=20210911&cor2=a">COR2A</a>*
+
 <a href="img/20210911-01.png"><img src="img/20210911-01.png" width="190"></a> <a href="img/20210911-02.png"><img src="img/20210911-02.png" width="190"></a> <a href="img/20210911-03.png"><img src="img/20210911-03.png" width="190"></a> <a href="img/20210911-04.png"><img src="img/20210911-04.png" width="190"></a> <a href="img/20210911-05.png"><img src="img/20210911-05.png" width="190"></a>
 
 #### 2021-09-06
 
+*CACTUS: <a href="https://wwwbis.sidc.be/cactus/catalog/LASCO/2_5_0/qkl/2021/09/CME0005/CME.html">CME0005</a> // SEEDS: <a href="http://spaceweather.gmu.edu/seeds/dailymkmovie.php?cme=20210906&r&cor2=a">COR2</a> & <a href="http://spaceweather.gmu.edu/seeds/dailymkmovie.php?cme=20210906&cor2=a">COR2A</a>*
+
 <a href="img/20210906-01.png"><img src="img/20210906-01.png" width="190"></a> <a href="img/20210906-02.png"><img src="img/20210906-02.png" width="190"></a> <a href="img/20210906-03.png"><img src="img/20210906-03.png" width="190"></a> <a href="img/20210906-04.png"><img src="img/20210906-04.png" width="190"></a> <a href="img/20210906-05.png"><img src="img/20210906-05.png" width="190"></a>
 
 #### 2021-08-31
+
+*CACTUS: <a href="https://wwwbis.sidc.be/cactus/catalog/LASCO/2_5_0/qkl/2021/08/CME0056/CME.html">CME0056</a> // SEEDS: <a href="http://spaceweather.gmu.edu/seeds/dailymkmovie.php?cme=20210831&r&cor2=a">COR2</a> & <a href="http://spaceweather.gmu.edu/seeds/dailymkmovie.php?cme=20210831&cor2=a">COR2A</a>*
 
 <a href="img/20210831-01.png"><img src="img/20210831-01.png" width="190"></a> <a href="img/20210831-02.png"><img src="img/20210831-02.png" width="190"></a> <a href="img/20210831-03.png"><img src="img/20210831-03.png" width="190"></a> <a href="img/20210831-04.png"><img src="img/20210831-04.png" width="190"></a>
 
