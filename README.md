@@ -4,7 +4,7 @@ Amateur archive of image observations from Large Angle and Spectrometric Coronag
 
 ### Archive
 
-Files are separated and ordered by year. Each period has summary in markdown format ```(archive.md)``` and images can be verified using md5sum ```(files.md5)```.
+Files are separated and ordered by year. Each period has summary in markdown format ```(archive.md)``` and images can be verified using sha256sum ```(files.sha256)```.
 
 - [Year 2021](2021/archive.md)
 
