@@ -3,6 +3,10 @@
 List of archived image observations from LASCO C2 and LASCO C3 published on Space Weather Prediction Center [website](https://www.swpc.noaa.gov/products/lasco-coronagraph) during the month October 2021.
 
 
+### 2021-10-13
+
+<a href="img/20211013-01.png"><img src="img/20211013-01.png" width="190"></a> <a href="img/20211013-02.png"><img src="img/20211013-02.png" width="190"></a> <a href="img/20211013-03.png"><img src="img/20211013-03.png" width="190"></a> <a href="img/20211013-04.png"><img src="img/20211013-04.png" width="190"></a> <a href="img/20211013-05.png"><img src="img/20211013-05.png" width="190"></a> <a href="img/20211013-06.png"><img src="img/20211013-06.png" width="190"></a> <a href="img/20211013-07.png"><img src="img/20211013-07.png" width="190"></a> <a href="img/20211013-08.png"><img src="img/20211013-08.png" width="190"></a> <a href="img/20211013-09.png"><img src="img/20211013-09.png" width="190"></a> <a href="img/20211013-10.png"><img src="img/20211013-10.png" width="190"></a>
+
 ### 2021-10-10
 
 <a href="img/20211010-01.png"><img src="img/20211010-01.png" width="190"></a> <a href="img/20211010-02.png"><img src="img/20211010-02.png" width="190"></a> <a href="img/20211010-03.png"><img src="img/20211010-03.png" width="190"></a> <a href="img/20211010-04.png"><img src="img/20211010-04.png" width="190"></a> <a href="img/20211010-05.png"><img src="img/20211010-05.png" width="190"></a> <a href="img/20211010-06.png"><img src="img/20211010-06.png" width="190"></a> <a href="img/20211010-07.png"><img src="img/20211010-07.png" width="190"></a> <a href="img/20211010-08.png"><img src="img/20211010-08.png" width="190"></a> <a href="img/20211010-09.png"><img src="img/20211010-09.png" width="190"></a> <a href="img/20211010-10.png"><img src="img/20211010-10.png" width="190"></a> <a href="img/20211010-11.png"><img src="img/20211010-11.png" width="190"></a> <a href="img/20211010-12.png"><img src="img/20211010-12.png" width="190"></a> <a href="img/20211010-13.png"><img src="img/20211010-13.png" width="190"></a>
