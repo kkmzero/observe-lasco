@@ -3,6 +3,10 @@
 List of archived image observations from LASCO C2 and LASCO C3 published on Space Weather Prediction Center [website](https://www.swpc.noaa.gov/products/lasco-coronagraph) during the month October 2021.
 
 
+### 2021-10-23
+
+<a href="img/20211023-01.png"><img src="img/20211023-01.png" width="190"></a> <a href="img/20211023-02.png"><img src="img/20211023-02.png" width="190"></a> <a href="img/20211023-03.png"><img src="img/20211023-03.png" width="190"></a> <a href="img/20211023-04.png"><img src="img/20211023-04.png" width="190"></a> <a href="img/20211023-05.png"><img src="img/20211023-05.png" width="190"></a>
+
 ### 2021-10-19
 
 <a href="img/20211019-01.png"><img src="img/20211019-01.png" width="190"></a> <a href="img/20211019-02.png"><img src="img/20211019-02.png" width="190"></a> <a href="img/20211019-03.png"><img src="img/20211019-03.png" width="190"></a> <a href="img/20211019-04.png"><img src="img/20211019-04.png" width="190"></a> <a href="img/20211019-05.png"><img src="img/20211019-05.png" width="190"></a>
