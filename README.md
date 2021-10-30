@@ -1,10 +1,10 @@
 # Observe LASCO
 
-Amateur archive of image observations from Large Angle and Spectrometric Coronagraph (LASCO) published on Space Weather Prediction Center [website](https://www.swpc.noaa.gov/products/lasco-coronagraph).
+Amateur archive of image observations from Large Angle and Spectrometric Coronagraph (LASCO) published on Space Weather Prediction Center [website](https://www.swpc.noaa.gov/products/lasco-coronagraph). This archive is used for personal education purposes only.
 
 ### Archive
 
-Files are separated and ordered by year. Each period has summary in markdown format ```(archive.md)``` and images can be verified using sha256sum ```(files.sha256)```.
+Files are separated and ordered by year and month. Each period has summary in markdown format ```(archive.md)``` and images can be verified using sha256sum ```(files.sha256)```.
 
 - [Year 2021](2021/archive.md)
 
