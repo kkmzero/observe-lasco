@@ -3,6 +3,10 @@
 List of archived image observations from LASCO C2 and LASCO C3 published on Space Weather Prediction Center [website](https://www.swpc.noaa.gov/products/lasco-coronagraph) during the month November 2021.
 
 
+### 2021-11-03
+
+<a href="img/20211103-01.png"><img src="img/20211103-01.png" width="190"></a> <a href="img/20211103-02.png"><img src="img/20211103-02.png" width="190"></a> <a href="img/20211103-03.png"><img src="img/20211103-03.png" width="190"></a> <a href="img/20211103-04.png"><img src="img/20211103-04.png" width="190"></a> <a href="img/20211103-05.png"><img src="img/20211103-05.png" width="190"></a> <a href="img/20211103-06.png"><img src="img/20211103-06.png" width="190"></a> <a href="img/20211103-07.png"><img src="img/20211103-07.png" width="190"></a> <a href="img/20211103-08.png"><img src="img/20211103-08.png" width="190"></a> <a href="img/20211103-09.png"><img src="img/20211103-09.png" width="190"></a> <a href="img/20211103-10.png"><img src="img/20211103-10.png" width="190"></a>
+
 ### 2021-11-02
 
 <a href="img/20211102-01.png"><img src="img/20211102-01.png" width="190"></a> <a href="img/20211102-02.png"><img src="img/20211102-02.png" width="190"></a> <a href="img/20211102-03.png"><img src="img/20211102-03.png" width="190"></a> <a href="img/20211102-04.png"><img src="img/20211102-04.png" width="190"></a> <a href="img/20211102-05.png"><img src="img/20211102-05.png" width="190"></a>
