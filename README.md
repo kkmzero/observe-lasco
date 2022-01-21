@@ -6,6 +6,7 @@ Amateur archive of image observations from Large Angle and Spectrometric Coronag
 
 Files are separated and ordered by year and month. Each period has summary in markdown format ```(archive.md)``` and images can be verified using sha256sum ```(files.sha256)```.
 
+- [Year 2022](2022/archive.md)
 - [Year 2021](2021/archive.md)
 
 ### About LASCO
