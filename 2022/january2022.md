@@ -3,6 +3,14 @@
 List of archived image observations from LASCO C2 and LASCO C3 published on Space Weather Prediction Center [website](https://www.swpc.noaa.gov/products/lasco-coronagraph) during the month January 2022.
 
 
+### 2022-01-21
+
+<a href="img/20220121-01.png"><img src="img/20220121-01.png" width="190"></a> <a href="img/20220121-02.png"><img src="img/20220121-02.png" width="190"></a> <a href="img/20220121-03.png"><img src="img/20220121-03.png" width="190"></a> <a href="img/20220121-04.png"><img src="img/20220121-04.png" width="190"></a> <a href="img/20220121-05.png"><img src="img/20220121-05.png" width="190"></a> <a href="img/20220121-06.png"><img src="img/20220121-06.png" width="190"></a>
+
+### 2022-01-20
+
+<a href="img/20220120-01.png"><img src="img/20220120-01.png" width="190"></a> <a href="img/20220120-02.png"><img src="img/20220120-02.png" width="190"></a> <a href="img/20220120-03.png"><img src="img/20220120-03.png" width="190"></a> <a href="img/20220120-04.png"><img src="img/20220120-04.png" width="190"></a> <a href="img/20220120-05.png"><img src="img/20220120-05.png" width="190"></a> <a href="img/20220120-06.png"><img src="img/20220120-06.png" width="190"></a> <a href="img/20220120-07.png"><img src="img/20220120-07.png" width="190"></a> <a href="img/20220120-08.png"><img src="img/20220120-08.png" width="190"></a> <a href="img/20220120-09.png"><img src="img/20220120-09.png" width="190"></a> <a href="img/20220120-10.png"><img src="img/20220120-10.png" width="190"></a> <a href="img/20220120-11.png"><img src="img/20220120-11.png" width="190"></a> <a href="img/20220120-12.png"><img src="img/20220120-12.png" width="190"></a> <a href="img/20220120-13.png"><img src="img/20220120-13.png" width="190"></a> <a href="img/20220120-14.png"><img src="img/20220120-14.png" width="190"></a> <a href="img/20220120-15.png"><img src="img/20220120-15.png" width="190"></a> <a href="img/20220120-16.png"><img src="img/20220120-16.png" width="190"></a>
+
 ### 2022-01-15
 
 <a href="img/20220115-01.png"><img src="img/20220115-01.png" width="190"></a> <a href="img/20220115-02.png"><img src="img/20220115-02.png" width="190"></a> <a href="img/20220115-03.png"><img src="img/20220115-03.png" width="190"></a> <a href="img/20220115-04.png"><img src="img/20220115-04.png" width="190"></a> <a href="img/20220115-05.png"><img src="img/20220115-05.png" width="190"></a> <a href="img/20220115-06.png"><img src="img/20220115-06.png" width="190"></a> <a href="img/20220115-07.png"><img src="img/20220115-07.png" width="190"></a>
