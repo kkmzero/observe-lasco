@@ -10,8 +10,8 @@ List of archived image observations from LASCO C2 and LASCO C3 published on Spac
 - [May](may2022.md) *(121 images, 12 days)*
 - [June](june2022.md) *(75 images, 8 days)*
 - [July](july2022.md) *(77 images, 9 days)*
-- [August](august2022.md)
-- September
+- [August](august2022.md) *(105 images, 12 days)*
+- [September](september2022.md) *(67 images, 9 days)*
 - October
 - November
 - December
